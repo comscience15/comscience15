@@ -84,21 +84,8 @@ Senior Software Testing Engineer with proven success in leading QA teams, archit
 - **Frameworks**: React, React Native, AngularJS, Cypress, Playwright, Selenium, Jest, TestNG, Percy, BrowserStack, LoadRunner, WinRunner, FTP, iOS, Android
 - **CI/CD & Cloud**: GitHub Actions, Jenkins, Docker, AWS, CircleCI, Tableau, Splunk, GitLab 
 - **Databases**: SQL, MySQL, Oracle, MongoDB  
+ 
 
-<!-- Commented this section out for now
-## 🚀 Projects  
-Here are some of my GitHub projects:  
-
-- [**Automation Frameworks**](https://github.com/comscience15/your-repo)  
-  ![Repo stars](https://img.shields.io/github/stars/comscience15/your-repo?style=social)  
-  Automation framework with Playwright + CI/CD pipelines.  
-
-- [**React QA Tool**](https://github.com/comscience15/your-repo)  
-  ![Repo stars](https://img.shields.io/github/stars/comscience15/your-repo?style=social)  
-  React app for streamlining QA workflows.  
-
-*(list all repos or pin the best ones)*  
--->
 ## 📫 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/natsr/)  
 - [GitHub](https://github.com/comscience15)  
